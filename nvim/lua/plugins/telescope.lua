@@ -27,20 +27,20 @@ return {
                 live_grep = {
                     theme = "ivy",
                     layout_config = {
-                        height = 0.8,
+                        height = 64,
                     },
                     path_display = {"tail"}
                 },
                 current_buffer_fuzzy_find = {
                     theme = "ivy",
                     layout_config = {
-                        height = 0.6,
+                        height = 64,
                     },
                 },
                 lsp_references = {
                     theme = "ivy",
                     layout_config = {
-                        height = 0.6,
+                        height = 64,
                     },
                     path_display = {"tail"}
                 }
